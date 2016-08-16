@@ -228,7 +228,7 @@ var rules = {
 };
 
 var default_responses = [
-  "Very interesting",
+  "Your question is null and void. Does the magno ask questions? It can, if you want it to. It doesn't matter either way. Like the mango, you are an atomized part of the universe; your consciousness can be defined in the larger sense of a group consciousness, which includes mangos; you will someday perish ",
   "I am not sure I understand you fully",
   "What does that suggest to you?",
   "Please continue",
